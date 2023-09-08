@@ -1,5 +1,5 @@
-## CORE_JAVA
-# Core Java concepts practical implementation.
+# CORE_JAVA
+## Core Java concepts practical implementation.
 1. Learning Concepts of JAVA and Implementing them
 2. Logical and Decision-Making programs
 3. Numerical Programs
